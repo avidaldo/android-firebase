@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503355914470",
+    "project_id": "avd-pmdm21",
+    "storage_bucket": "avd-pmdm21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503355914470:android:458736790ee7759e5fe327",
+        "android_client_info": {
+          "package_name": "com.avidaldo.firebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503355914470-m7577gt793t87aho5mt6jd7e5rnge5mu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqvkaLoR3A2yG5Rvbnnz-RO3Jl0aLQVnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503355914470-m7577gt793t87aho5mt6jd7e5rnge5mu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
